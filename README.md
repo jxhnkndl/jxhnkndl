@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi! I'm J.K. 👋🏼
+
+### I'm a full-stack developer with a passion for React and UI/UX design. I graduated from a full-stack coding boot camp at the University of Richmond in 2021 and joined the instructional staff a few months later.
 
 <!--
 **jxhnkndl/jxhnkndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
