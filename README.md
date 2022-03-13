@@ -3,12 +3,15 @@
 I'm a full-stack developer with a passion for React and UI/UX design based out of Richmond, Virginia. I graduated from a full-stack coding boot camp at the University of Richmond in spring 2021 and have continued to expand and develop my programming and design skills ever since.
 <br>
 
+## 🌱 Skills
+React  |  JavaScript | CSS/Sass | Bootstrap | Adobe XD | Node.js | Express | NoSQL | MySQL | GraphQL
+
 ## 🌱 Professional Background 
 I'm currently in the process of finishing a few personal projects to add to my development portfolio before starting to apply for front-end developer positions. I've been a self-employed audio producer, songwriter, and perforer for most of my adult life. I also worked for Apple as a technician and training facilitator. After graduating from my coding boot camp, In the summer of 2021, I joined the instructional staff of the coding boot camp I graduated from at the University of Richmond where I'm currently co-facilitating my second cohort.
 <br>
 
 ## 🌱 Currently Learning 
-With the help of Udemy and YouTube, I've recently been learning how to use Adobe XD, Adobe Photoshop, and Adobe Illustrator to wireframe and prototype responsive web applications. I'm also continuing to practice implementing global state management in React apps using the context API, reducers, and/or Redux.
+I've been focusing on improving my UI/UX skills using Adobe XD, Adobe Photoshop, and Adobe Illustrator to wireframe and prototype responsive web and mobile applications. I'm also continuing to practice implementing global state management in React apps using the context API, reducers, and/or Redux.
 <br>
 
 ## 🌱 Currently Working On
