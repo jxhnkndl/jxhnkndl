@@ -1,25 +1,25 @@
-# Hey! I'm J.K. 👋🏼
+# Hi! I'm J.K. 👋🏼
 
-I'm a full-stack developer with a passion for React and UI/UX design based out of Richmond, Virginia. I graduated from a full-stack coding boot camp at the University of Richmond in spring 2021 and have continued to expand and develop my programming and design skills ever since.
+I'm a full-stack web developer, designer, and educator based out of Richmond, Virginia. I'm part of the instructional staff for a coding bootcamp helping students at the University of Central Florida and University of Richmond learn the MERN stack. I also design and develop websites for small businesses and musical artists. I love developing beautiful websites and user interfaces with React, learning new CSS tricks, creating prototypes in Figma, and working with coding bootcamp students.
 <br>
 
-## 🌱 Skills
-React  |  JavaScript | CSS/Sass | Bootstrap | Adobe XD | Node.js | Express | NoSQL | MySQL | GraphQL
-
-## 🌱 Professional Background 
-I'm currently in the process of finishing a few personal projects to add to my development portfolio before starting to apply for front-end developer positions. I've been a self-employed audio producer, songwriter, and perforer for most of my adult life. I also worked for Apple as a technician and training facilitator. After graduating from my coding boot camp, In the summer of 2021, I joined the instructional staff of the coding boot camp I graduated from at the University of Richmond where I'm currently co-facilitating my second cohort.
-<br>
-
-## 🌱 Currently Learning 
-I've been focusing on improving my UI/UX skills using Adobe XD, Adobe Photoshop, and Adobe Illustrator to wireframe and prototype responsive web and mobile applications. I'm also continuing to practice implementing global state management in React apps using the context API, reducers, and/or Redux.
-<br>
-
-## 🌱 Currently Working On
-I'm currently designing and building a mobile-first web application for tracking and analyzing mood and anxiety cycles. I'm also working on refactoring a virtual tour management application for musicians to implement global state management, user authentication, and a cleaner user interface.
-<br>
-
-## 🌱 Ideal Role
-My ideal role would combine front-end development with UI/UX design to solve real world challenges in education, wellness, business, or music. I've come to really enjoy using creative tools to build wireframes, high-fidelity mockups, and microinteractions. I also genuinely love working with code to build clean, functional, and attractive web applications that promote beautiful user experiences. Something that combines both disciplines would be a dream!
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 <!--
